@@ -1,0 +1,15 @@
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\bin\Debug\netstandard2.0\leviApp.deps.json
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\bin\Debug\netstandard2.0\leviApp.dll
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\bin\Debug\netstandard2.0\leviApp.pdb
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\leviApp.csproj.AssemblyReference.cache
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\leviApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\leviApp.AssemblyInfoInputs.cache
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\leviApp.AssemblyInfo.cs
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\leviApp.csproj.CoreCompileInputs.cache
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\leviApp.dll
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\refint\leviApp.dll
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\leviApp.pdb
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp\obj\Debug\netstandard2.0\ref\leviApp.dll

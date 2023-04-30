@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\background.jpg" />
+    <None Remove="Resources\levi1.ogg" />
+    <None Remove="Resources\levi2.ogg" />
+    <None Remove="Resources\levi3.ogg" />
+    <None Remove="Resources\levi4.mp3" />
+    <None Remove="Resources\leviLogo.png" />
+    <None Remove="Resources\leviLong.png" />
+    <None Remove="Resources\sample.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\background.jpg" />
+    <EmbeddedResource Include="Resources\levi4.mp3" />
+    <EmbeddedResource Include="Resources\levi1.ogg" />
+    <EmbeddedResource Include="Resources\levi2.ogg" />
+    <EmbeddedResource Include="Resources\levi3.ogg" />
+    <EmbeddedResource Include="Resources\leviLogo.png" />
+    <EmbeddedResource Include="Resources\leviLong.png" />
+    <Resource Include="Resources\sample.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.6.0" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2196" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.0" />
+  </ItemGroup>
+</Project>

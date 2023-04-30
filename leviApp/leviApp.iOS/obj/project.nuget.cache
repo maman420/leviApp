@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/EzhwVUD5Euhl0Epk7tGEfwlW028A4eHkNwCg5eUEC+XkgR7alN+Xv+rvQgy+iYmsH5o2RN1ikNneVrYjMQfVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maman\\OneDrive\\שולחן העבודה\\leviApp\\leviApp\\leviApp.iOS\\leviApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maman\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\maman\\.nuget\\packages\\xam.plugin.simpleaudioplayer\\1.6.0\\xam.plugin.simpleaudioplayer.1.6.0.nupkg.sha512",
+    "C:\\Users\\maman\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\maman\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
