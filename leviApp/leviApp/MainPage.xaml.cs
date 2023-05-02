@@ -13,7 +13,9 @@ namespace leviApp
             "leviApp.Resources.levi2.ogg",
             "leviApp.Resources.levi3.ogg",
             "leviApp.Resources.levi4.mp3",
-            "leviApp.Resources.levi5.mp3"
+            "leviApp.Resources.levi5.mp3",
+            "leviApp.Resources.levi6.ogg"
+
         };
         private List<string> soundFilesWithoutLast;
 
@@ -33,8 +35,29 @@ namespace leviApp
         private void OnImageTapped(object sender, EventArgs e)
         {
             var random = new Random();
-            string soundFile = soundFilesWithoutLast[random.Next(soundFilesWithoutLast.Count)];
-            soundFilesWithoutLast = soundFiles.Where(item => item != soundFile).ToList();
+/*            string soundFile = soundFilesWithoutLast[random.Next(soundFilesWithoutLast.Count)];
+            soundFilesWithoutLast = soundFiles.Where(item => item != soundFile).ToList();*/
+
+            List<string> newSounds;
+            var randomNum = random.Next(0, 100);
+            if(randomNum > 50)
+            {
+                newSounds = new List<string>
+                {
+                    soundFiles[0],
+                    soundFiles[4]
+                };
+            }
+            else
+            {
+                newSounds = new List<string>
+                {
+                    soundFiles[1],
+                    soundFiles[2],
+                    soundFiles[3]
+                };
+            }
+            string soundFile = newSounds[random.Next(newSounds.Count)];
             playSong(soundFile);
         }
         private void playSong(string songFile)

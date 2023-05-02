@@ -451,3 +451,4 @@ C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\
 C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\levilong.png
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\dragimage.jpeg

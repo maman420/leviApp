@@ -17,6 +17,7 @@
     <None Remove="Resources\levi3.ogg" />
     <None Remove="Resources\levi4.mp3" />
     <None Remove="Resources\levi5.mp3" />
+    <None Remove="Resources\levi6.ogg" />
     <None Remove="Resources\leviLogo.png" />
     <None Remove="Resources\leviLong.png" />
     <None Remove="Resources\sample.png" />
@@ -29,6 +30,7 @@
     <EmbeddedResource Include="Resources\levi2.ogg" />
     <EmbeddedResource Include="Resources\levi3.ogg" />
     <EmbeddedResource Include="Resources\levi5.mp3" />
+    <EmbeddedResource Include="Resources\levi6.ogg" />
     <EmbeddedResource Include="Resources\leviLogo.png" />
     <EmbeddedResource Include="Resources\leviLong.png" />
     <Resource Include="Resources\sample.png" />
