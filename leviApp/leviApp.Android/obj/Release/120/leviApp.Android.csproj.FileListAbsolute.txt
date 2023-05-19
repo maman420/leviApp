@@ -451,4 +451,9 @@ C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\
 C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\levilong.png
-C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\dragimage.jpeg
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\orel.png
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\ron.png
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\shemesh.png
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\ida.png
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\liya.png
+C:\Users\maman\OneDrive\שולחן העבודה\leviApp\leviApp\leviApp.Android\obj\Release\120\res\drawable\maman.png

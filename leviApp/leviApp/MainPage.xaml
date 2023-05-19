@@ -5,7 +5,6 @@
              x:Class="leviApp.MainPage">
     <StackLayout>
         <Image x:Name="myImage"
-               Source="Resources/leviLong.png"
                VerticalOptions="CenterAndExpand"
                HorizontalOptions="CenterAndExpand"
                Aspect="AspectFit"
